@@ -12,8 +12,8 @@
     "lint:fix": "npm lint --fix"
   },
   "dependencies": {
-    "@pinecone-database/pinecone": "^0.0.9",
-    "langchain": "^0.0.11",
+    "@pinecone-database/pinecone": "^0.0.11",
+    "langchain": "^0.0.41",
     "openai": "^3.1.0",
     "rimraf": "^4.1.2",
     "ts-node": "^10.9.1"
